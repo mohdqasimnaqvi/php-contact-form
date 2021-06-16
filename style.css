@@ -1,4 +1,6 @@
 *{
     font-family: 'Fira code', sans-serif;
     font-variant-ligatures: additional-ligatures;
+    word-break: break-all;
+    width: 100vw;
 }

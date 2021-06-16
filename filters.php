@@ -41,3 +41,8 @@
     ?>
 </body>
 </html>
+<style>
+    .frjioerfjiorejfoiejfioejferiofjieorjfioerjfoerjfior{
+        background-color: #f00;
+    }
+</style>
